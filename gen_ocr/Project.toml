@@ -1,0 +1,4 @@
+name = "gen_ocr"
+uuid = "95ea3d2b-dd71-4def-a878-5a274437e278"
+authors = ["elchun <ethan.l.chun@gmail.com>"]
+version = "0.1.0"
